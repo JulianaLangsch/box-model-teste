@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    
+}
+
+div {
+    background-image: url(imagem.jpg);
+    text-align: center;
+    color: palevioletred;
+    width: 400px;
+    height: 550px;
+    border: solid aqua;
+    border-radius: 40px;
+    box-shadow: 10px 10px 10px rgba(78, 1, 85, 0.78);
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50px;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 200px;
+}
